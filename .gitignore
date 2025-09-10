@@ -140,11 +140,7 @@ dmypy.json
 *.pickle
 *.joblib
 
-# Large data files
-*.xlsx
-*.xls
-*.xlsm
-*.xlsb
+
 *.ods
 
 # Model files
